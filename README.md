@@ -18,7 +18,7 @@ As the blog (hopefully) grows, so will this repo. The html files in this repo ar
 
 Hope you would enjoy reading about my journey as much as I enjoy writin about it!
 
-============================================
+=======================================
 If you are reading this line, that means that you have come to the "references" branch on github. There are no post files in this branch.
 The files here are the readings that I refer to in the blog post.
-============================================
+=======================================
