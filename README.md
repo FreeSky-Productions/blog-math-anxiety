@@ -13,6 +13,8 @@ Points that I wish to cover (over several posts):
 - Where is math anxiety more/less common?
 - Are social expectations shaping how we view our math expertise?
 - Is there such a thing as a "Math Brain"?
+- How do math experts deal with math anxiety? 
+- Is math anxiety contagious? 
 
 As the blog (hopefully) grows, so will this repo. The html files in this repo are meant to be drafts of the posts on the blog.
 
